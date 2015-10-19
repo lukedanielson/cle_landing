@@ -48,13 +48,24 @@
 				<div class="wrapper">
 					<div class="container">
 						
-						<img src="img/logo/clearlight-evolution-logo-shadow-720x190.png" alt="Clearlight Evolution" title="Clearlight Evolution">
+						<img class="main-logo" src="img/logo/clearlight-evolution-logo-shadow-720x190.png" alt="Clearlight Evolution" title="Clearlight Evolution">
 						<!-- <h1 class="heading">coming soon</h1> -->
-
-						<p class="home-tagline">Leadership&nbsp;&bull;&nbsp;Culture&nbsp;&bull;&nbsp;Communications.</p>
+						
+						<div class="tagline-cycle">
+							<div class="home-tagline-wrap">
+								<p class="home-tagline">Evolve to excel. Excel to fulfill</p>	
+							</div>
+							<div class="home-tagline-wrap">
+								<p class="home-tagline">Helping leaders keep promises</p>
+							</div>
+							<div class="home-tagline-wrap">
+								<p class="home-tagline">Wise leadership: by heart, mind and bottom line</p>
+							</div>
+						</div>
 						
 						<?php
 						/*
+						<p class="home-tagline">Leadership&nbsp;&bull;&nbsp;Culture&nbsp;&bull;&nbsp;Communications.</p>
 						<div class="row">
 							<div id="countdown"></div>
 						</div>
@@ -366,6 +377,7 @@
 		<!-- Include all compiled plugins (below), or include individual files as needed -->
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/jquery.backstretch.min.js"></script>
+		<script src="js/jquery.cycle2.min.js"></script>
 		<script src="js/jquery.countdown.min.js"></script>
 		<script src="js/jquery.vide.min.js"></script>
 		<script src="js/bootstrapValidator.min.js"></script>

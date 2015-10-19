@@ -203,4 +203,11 @@ $(function () {
 			});
 		},
 	});
+
+
+	$('#home .tagline-cycle').cycle({
+		slides: '> .home-tagline-wrap',
+	    speed: 1000,
+	    timeout: 6000
+	});
 });
