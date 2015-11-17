@@ -15,7 +15,7 @@
 		<link href="css/animate.min.css" rel="stylesheet">
 		<link href="css/owl.carousel.css" rel="stylesheet">
 		<link href="css/owl.theme.css" rel="stylesheet">
-		<link href="css/app.css" rel="stylesheet">
+		<link href="css/app.1.1.css" rel="stylesheet">
 		
 		<!-- Favicon -->
 		<link rel="shortcut icon" href="img/favicon/favicon.ico" type="image/x-icon">
@@ -321,6 +321,7 @@
 							<li><h3 class="mb0">Peter Bromley</h3><p class="mb0">Chief Evolutionary Officer</p></li>
 							<li><i class="fa fa-phone"></i> (647) 519-1234</li>
 							<li><i class="fa fa-envelope-o"></i> <a href="mailto:peterb@clearlightevolution.com">peterb@clearlightevolution.com</a></li>
+							<li><i class="fa fa-facebook-square"></i> <a href="https://www.facebook.com/First-look-within-Clearlight-Evolution-128555087335631/" title="Clearlight Evolution on Facebook">Clearlight Evolution on Facebook</a></li>
 						</ul>
 					</div>
 					
@@ -357,6 +358,8 @@
 
 				<div class="row">
 					<div class="col-sm-12">
+						<h3 class="ta-center uc"><a class="primary" href="https://clearlightevolution.wordpress.com" title="Visit Our Blog">Visit Our Blog</a></h4>
+						<br>
 						<h3 class="ta-center uc">Call Now or Come Back Soon.</h4>
 					</div>
 				</div>
